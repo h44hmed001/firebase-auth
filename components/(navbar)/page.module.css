@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-right:15px ;
+}
+.listOne{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    
+    
+}
+.listTwo{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+.signIn,.signUp{
+    cursor: pointer;
+}
